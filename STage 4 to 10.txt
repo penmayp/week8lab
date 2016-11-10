@@ -23,3 +23,7 @@ Stage 9
 
 Stage 10
 "Im coding like a hacker".length>10
+
+Stage 11
+console.log(2*5)
+console.log("bro hello")
