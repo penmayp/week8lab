@@ -20,3 +20,6 @@ confirm("I feel jetlog")
 Stage 9
 10 + 69    
 "What you on at ".length
+
+Stage 10
+"Im coding like a hacker".length>10
