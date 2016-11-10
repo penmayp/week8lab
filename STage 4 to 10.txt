@@ -12,3 +12,7 @@ Stage 6
 
 Result 4
 
+Stage 7
+// Also try the Q&A forum to get help
+// The link is on the bottom left of the page!
+confirm("I feel jetlog")
