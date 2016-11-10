@@ -1,0 +1,14 @@
+Stage 4
+17*2
+
+Stage 5
+Well done. You have confused the computer!
+ReferenceError: donaldtrump is not defined
+
+Stage 6
+// This is a comment that the computer will ignore. 
+// It is for your eyes only!
+"cake".length
+
+Result 4
+
